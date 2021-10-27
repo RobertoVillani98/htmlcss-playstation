@@ -43,3 +43,7 @@ body {
 .ms_width-text {
  width: 35%;
 }
+
+.jumbo-bottom img {
+ border-radius: 25px;
+}
