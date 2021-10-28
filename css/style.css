@@ -61,3 +61,12 @@ body {
  background-size: cover;
  background-position: center;
 }
+
+.ms_sfondo-grey {
+ height: 100%;
+ background-color: #1f1f1f;
+}
+
+.ms_img_border img {
+ border-radius: 20px;
+}
