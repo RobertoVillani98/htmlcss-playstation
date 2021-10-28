@@ -17,13 +17,8 @@ body {
  padding: 5px 20px;
 }
 
-.box {
- height: 500px;
- background-color: lightblue;
-}
-
 .jumbo {
- height: 650px;
+ height: 550px;
 }
 
 .bg_jumbo {
@@ -46,4 +41,13 @@ body {
 
 .jumbo-bottom img {
  border-radius: 25px;
+}
+
+.ms_color-blue {
+ background-color: #2c64e6;
+}
+
+.ms_play-img {
+ width: 50px;
+ height: 100%;
 }
