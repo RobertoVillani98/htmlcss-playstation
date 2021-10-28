@@ -51,3 +51,13 @@ body {
  width: 50px;
  height: 100%;
 }
+
+.ms_sfondo {
+ height: 600px;
+}
+
+.ms_bg_sfondo {
+ background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+ background-size: cover;
+ background-position: center;
+}
