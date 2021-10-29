@@ -78,3 +78,10 @@ body {
 .ms_bcg-color-2 {
  background-color: #161c3b;
 }
+
+.btn_jumbo-2 {
+ background-color: #d9dadc;
+ border: none;
+ border-radius: 20px;
+ padding: 10px 15px;
+}
