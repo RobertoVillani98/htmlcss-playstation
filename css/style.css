@@ -89,3 +89,16 @@ body {
 .ms_w-img {
  width: 150px;
 }
+
+.ms_bgc-footer-top {
+ background-color: #00439c;
+}
+
+.ms_logo-play-footer {
+ width: 100px;
+}
+
+.country {
+ width: 25px;
+ margin-right: 10px;
+}
