@@ -87,7 +87,7 @@ body {
 }
 
 .ms_w-img {
- width: 150px;
+ width: 130px;
 }
 
 .ms_bgc-footer-top {
@@ -101,4 +101,12 @@ body {
 .country {
  width: 25px;
  margin-right: 10px;
+}
+
+.ms_margin-left {
+ margin-left: 150px;
+}
+
+.ms_lens {
+ width: 25px;
 }
