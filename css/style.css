@@ -116,6 +116,10 @@ body {
 }
 
 /* effetti hover */
+
+.pic {
+ transition: 2s;
+}
 .pic:hover {
  cursor: pointer;
  -webkit-transform: scale(1.2);
@@ -125,6 +129,7 @@ body {
 }
 
 .hardware {
+ transition: 1.5s;
  opacity: 0.6;
  border-radius: 25px;
 }
