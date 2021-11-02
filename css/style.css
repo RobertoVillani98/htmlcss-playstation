@@ -2,6 +2,8 @@ body {
  font-family: "lato", sans-serif;
 }
 
+/* header */
+
 .ms_header-top {
  height: 50px;
  background-color: black;
@@ -16,6 +18,8 @@ body {
  border-radius: 50px;
  padding: 5px 20px;
 }
+
+/* jumbotron */
 
 .jumbo {
  height: 550px;
@@ -111,6 +115,7 @@ body {
  width: 25px;
 }
 
+/* effetti hover */
 .pic:hover {
  cursor: pointer;
  -webkit-transform: scale(1.2);
@@ -133,4 +138,26 @@ body {
  -o-transition: all 0.5s ease;
  -ms-transition: all 0.5s ease;
  transition: all 0.5s ease;
+}
+
+/* mediaquery */
+
+@media screen and (min-width: 319px) {
+ .ms_bcg-color {
+  padding: 15px 0;
+ }
+
+ .ms_width-text {
+  width: 100%;
+ }
+}
+
+@media screen and (min-width: 728px) {
+ .ms_width-text {
+  width: 35%;
+ }
+
+ .ms_bcg-color {
+  padding: 0;
+ }
 }
